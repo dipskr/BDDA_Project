@@ -14,7 +14,7 @@ vi) Hyperparameter tuning both using Grid Search and Randomized Search
 
 
 
-## Project 2
+## Project 2 - Dota 2 Game
 
 The Dataset contains two teams of Dota 2 game
 There are two teams in Dota 2 games, data contains  numeric and categorical features, event logs, time series, etc.
